@@ -1,0 +1,12 @@
+prettytable
+gdown
+imageio
+sconf
+scipy
+scikit-learn
+yacs
+tqdm
+ftfy
+regex
+timm
+pandas

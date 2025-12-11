@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*.pth.tar
+
+cache/*
+train_output/*
+.vscode/*
